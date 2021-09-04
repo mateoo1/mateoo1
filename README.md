@@ -6,7 +6,7 @@ You can download already compiled .exe file or clone repo to compile it by yours
 
 Download: [Sharing Inspector.zip](https://github.com/mateoo1/mateoo1/files/7110370/Sharing.Inspector.zip)
 
-Don't forget to take a glance at short user manual.
+Don't forget to take a glance at short manual in README.md.
 
 Enjoy!
 
