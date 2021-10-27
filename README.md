@@ -4,7 +4,7 @@ If you are here for Sharing Inspector, here it is! Version 1.0 is already releas
 
 You can download already compiled .exe file or clone repo to compile it by yourself.
 
-Download: [Sharing_Inspector.zip](https://github.com/mateoo1/mateoo1/files/7269355/Sharing_Inspector.zip)
+Download: [Sharing_Inspector.zip](https://github.com/mateoo1/mateoo1/files/7424529/Sharing_Inspector.zip)
 
 Don't forget to take a glance at short manual in [README.md](https://github.com/mateoo1/sharing-inspector/blob/main/README.md).
 
